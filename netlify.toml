@@ -2,4 +2,9 @@
   from = "/*"
   to = "/index.html"
   status = 200
-  
+
+[[redirects]]
+  from = "/join/*"
+  to = "https://opencrew.onrender.com/"
+  status = 200
+

@@ -53,7 +53,7 @@ import SocialEvent from "./social_event.jpg";
 import GD from "./GD.jpg";
 import designContest from "./designcontest.jpg";
 import arrow_down from "./arrow-down.gif";
-import logo_optimized from './FOSS-CIT_Optimized-Logo.jpeg'
+import logo_optimized from './FOSS-CIT_Optimized-Logo.svg'
 
 export {
     logo,logo_optimized, close,menu,arrowUp,linux,facebook,instagram,linkedin,twitter,discord,youtube,github,location,mail,phone,left_arrow,right_arrow,google,apple,outlook,
